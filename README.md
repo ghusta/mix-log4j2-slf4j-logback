@@ -1,4 +1,7 @@
 # mix-log4j2-slf4j-logback
+
+[![Build Status](https://travis-ci.org/ghusta/mix-log4j2-slf4j-logback.svg?branch=master)](https://travis-ci.org/ghusta/mix-log4j2-slf4j-logback)
+
 Mixing Log4J2 with Logback and SLF4J
 
 ## Overview 
